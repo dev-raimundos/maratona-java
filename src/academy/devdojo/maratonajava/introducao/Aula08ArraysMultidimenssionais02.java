@@ -1,6 +1,7 @@
 package academy.devdojo.maratonajava.introducao;
 
 public class Aula08ArraysMultidimenssionais02 {
+    @SuppressWarnings("unused")
     public static void main(String[] args) {
         int array[] = {1, 2, 3};
 
