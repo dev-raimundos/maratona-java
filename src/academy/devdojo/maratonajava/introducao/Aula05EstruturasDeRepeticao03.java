@@ -8,11 +8,9 @@ public class Aula05EstruturasDeRepeticao03 {
             System.out.print("Digite o valor inicial: ");
             int valorInicial = scanner.nextInt();
 
-            for (int i = 0; i < 25; i++) {
+            for (int i = 0; i <= 25; i++) {
                 System.out.println(valorInicial + i);
             }
-
-            scanner.close();
         }
     }
 }

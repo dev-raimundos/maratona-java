@@ -18,7 +18,7 @@ public class Aula07Arrays02 {
             }
 
             System.out.println("Os nomes informados foram: ");
-
+            // Foreach
             for (String nome : nomes) {
                 System.out.println(nome);
             }
