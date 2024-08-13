@@ -16,8 +16,7 @@ public class Aula05EstruturasCondicionais03 {
 
             resultado = salary > 5000 ? mensagemDoar : mensagemNaoDoar; // Operador ternário.
 
-            System.out.println(resultado);
+            System.out.println(resultado);  
         }
-
     }
 }
